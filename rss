@@ -3,7 +3,7 @@
 
 <channel>
 	<title>3DIS GmbH</title>
-	<atom:link href="https://www.3dis.de/feed/" rel="self" type="application/rss+xml" />
+	
 	<link>https://www.3dis.de</link>
 	<description>3D Information Systems</description>
 	<lastBuildDate>Fri, 12 Jul 2019 11:54:35 +0000</lastBuildDate>
